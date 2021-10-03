@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(2500, 0, 0);
+  }
+  
+  h1 {
+    color: #ffffff;
+    margin-left: 20px;
+    font-size: 90px;
+  }
+  #para1 {
+    text-align: center;
+    color:#fa14bf;
+  }
+  .center {
+    text-align: center;
+    color: red;
+  }
